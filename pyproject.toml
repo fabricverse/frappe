@@ -15,7 +15,7 @@ dependencies = [
     "Jinja2~=3.1.2",
     "Pillow~=9.1.1",  # Keeping older version for stability
     "PyJWT~=2.4.0",
-    "PyMySQL==1.1.1",  # Strict version for stability
+    "PyMySQL~=1.0.2",
     "PyPDF2~=2.1.0",
     "PyPika~=0.48.9",
     "PyQRCode~=1.2.1",
